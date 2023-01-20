@@ -1,4 +1,9 @@
-#BIM文件转FBX和3DTiles，并且应用Threejs和Cesium做展示
+---
+title: BIM文件转FBX和3DTiles，并且应用Threejs和Cesium做展示
+tags: ["Cesium", "BIM"]
+date: 2023-01-20
+---
+
 网上有许多处理方法，但都或多或少存在一些问题。
 1、推荐CesiumLab对于revit文件转clm再进行切片的处理方式，方便快捷但需要收费。
 2、revit文件导出成nwc，通过Navisworks Manage导出FBX文件，虽然会保留着色效果，但纹理存在丢失，直接通过3dmax加载rvt文件导出FBX也存在类似问题。

@@ -1,8 +1,7 @@
 ---
-title: Arcgis Engine
+title: Arcgis Engine + GeoserverRestAPI实现高程点到高程热力图服务的自动处理
 tags: ["Geoserver", "AE"]
-excerpt: Arcgis Engine + GeoserverRestAPI实现高程点到高程热力图服务的自动处理.
-date: 2018-12-31
+date: 2023-01-20
 ---
 
 近期在工作中有涉及一个水深自动化上图的工作，将海图的dwg文件提取水深点生成水深热力图，是以做此纪录，以便查阅与分享。
