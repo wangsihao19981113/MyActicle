@@ -1,5 +1,4 @@
 近期有在研究UE5游戏引擎在GIS上的应用，Cesium刚好有相关的插件能生成一个场景，但又想到不知如何应用到Web，于是参考网上一些大神的参考流程，结合Pixel Streaming提供的两个重要代码，实现了在Vue前端展示嵌入，借此分享记录。
-@[TOC](目录)
 # 软件和插件
 下载安装UE5.1，VS2022
 安装插件 Cesium for Unreal，Pixel Streaming
