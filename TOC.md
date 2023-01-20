@@ -1,6 +1,6 @@
-# Getting Started
+# GIS
 
-- [1. Welcome to GitPress](welcome)
+- [Arcgis Engine + GeoserverRestAPI实现高程点到高程热力图服务的自动处理](Arcgis Engine + GeoserverRestAPI实现高程点到高程热力图服务的自动处理)
 - [2. Your first article from GitHub repo](first-article)
 - [3. Use GitPress collections](collection)
     - [3.1 Create a collection](create-a-collection)
@@ -8,8 +8,3 @@
 - [4. FAQ](faq)
 - [5. Troubleshooting](troubleshooting)
 
-# User Manual
-
-- [Front matter specification](front-matter)
-- [Supported languages](languages)
-- [Setup repo manually](setup-manually)
