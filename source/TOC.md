@@ -5,5 +5,6 @@
 - [BIM文件转FBX和3DTILES，并且应用THREEJS和CESIUM做展示](BIMToFBX&3DTiles)
 - [UE5+CESIUM FOR UNREAL+PIXEL STREAMING实现基础的天空地形WEB展示](ShowCesiumSceneOfUEByWeb)
 - [SHP文件纯前端的上传、解析、编辑、下载](ShpOperationByJS)
+- [Cesium图片材质（解决billboard面对屏幕问题）](ImageMaterial)
 
 
