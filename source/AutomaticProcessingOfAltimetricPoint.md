@@ -160,8 +160,7 @@ this.$axios({
     },
 ```
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/96000de9a38344d796680a361ef74cb4.png#pic_center)
-![image](https://user-images.githubusercontent.com/53400642/225863074-aa7c59c9-624e-4521-a915-06e35571a58a.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/96000de9a38344d796680a361ef74cb4.png)
 
 
 
