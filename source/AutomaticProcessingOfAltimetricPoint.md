@@ -159,8 +159,7 @@ this.$axios({
       return sld;
     },
 ```
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/96000de9a38344d796680a361ef74cb4.png)
+![image](https://user-images.githubusercontent.com/53400642/225867425-7cb51740-1011-428b-b14d-7f4e943861a6.png)
 
 
 
