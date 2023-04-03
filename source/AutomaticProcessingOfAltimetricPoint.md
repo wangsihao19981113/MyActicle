@@ -159,9 +159,7 @@ this.$axios({
       return sld;
     },
 ```
-![image](https://user-images.githubusercontent.com/53400642/225867425-7cb51740-1011-428b-b14d-7f4e943861a6.png)
-
-
+![img.png](img.png)
 
 # 结尾
 参考：
