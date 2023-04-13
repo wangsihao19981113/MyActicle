@@ -62,7 +62,7 @@ npm install shp-write
 ```
 ## 展示
 这里前端展示界面和修改使用maptalks的接口，创建地图的代码可参考maptalk官网例子，详细用法请见结尾参考，亦可用其他的前端渲染引擎。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/e48702ad0d2046e38e66ddaf8847a55a.png)
+![image](https://user-images.githubusercontent.com/53400642/231704934-b104552a-07fc-4dbf-b65f-8ae3cb6b3de0.png)
 ```js
 addGeometry(geojson){
       let map = window.app.MTmap
@@ -79,7 +79,7 @@ addGeometry(geojson){
     }
 ```
 ## 编辑
-![在这里插入图片描述](https://img-blog.csdnimg.cn/26beae21a8b0492ea5567f8affa2ee2a.png)
+![image](https://user-images.githubusercontent.com/53400642/231704984-ca91e117-d5e9-47b3-bced-68dc710acf90.png)
 
 
 ```js
@@ -97,10 +97,11 @@ addGeometry(geojson){
 ## 下载
 ### shp-write问题
 因为初用shp-write的时候出现报错了，报错截图如下。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/16dceecd85704a759e087303c3e6218a.png)
+![image](https://user-images.githubusercontent.com/53400642/231705035-fb45a91b-1f99-42d3-aa78-530e60f93ee8.png)
+
 我也不懂这个是啥，看上去好像版本新了，方法没了，本人也没有试过降低版本，但参考了一些github提问的中解决的方法，找到了一个办法，具体解决方法截图如下。十分感谢这位哥。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/64ca95e4cedb45e8a9f7b9a36402e854.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/93f2cd39490d4bde9caea531ecc6ffca.png)
+![image](https://user-images.githubusercontent.com/53400642/231705079-eaa8e1db-f828-4399-b980-6d8f7f153a37.png)
+![image](https://user-images.githubusercontent.com/53400642/231705135-6865ea3d-7057-4b77-8b61-9b38412fa974.png)
 ### 代码
 folder为存放的文件夹，point、polygon、line为点线面shapefile的名字，涉及一个base64转blob的方法Base64ToBlob，可参考网上代码。用file-save类去下载这个zip文件。
 ```js
@@ -137,7 +138,7 @@ folder为存放的文件夹，point、polygon、line为点线面shapefile的名�
  },
 ```
 ### 结果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/785e09209aa6491d93a17542bcbede7e.png)
+![image](https://user-images.githubusercontent.com/53400642/231705197-20162546-d60a-440e-a850-c4cca770c61c.png)
 # 结尾
 此方法目前在大体量数据解析过程中可能会出错或者时间过长，因此如果数据量大的话还是推荐上传到服务器进行解析。
 本文代码是vue中写的，并且截取片段，望不会造成太大的阅读困扰。
