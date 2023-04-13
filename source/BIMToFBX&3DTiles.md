@@ -21,6 +21,7 @@ date: 2023-01-20
 选择转换规则如图，点击转换
 ![image](https://user-images.githubusercontent.com/53400642/231701915-cd7e5104-8be8-4003-bbe3-d358ed980e60.png)
 材质就会从Autodesk材质转化为标准材质
+
 ![image](https://user-images.githubusercontent.com/53400642/231702006-ead56c49-3918-42b2-b49c-a979144de1df.png)
 ## 文件导出
 将模型导出成FBX文件，导入发现材质基本保留。FBX文件可直接用Threejs加载，代码可自行寻找。
