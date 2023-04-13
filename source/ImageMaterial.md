@@ -24,7 +24,7 @@ scene.primitives.add(new Cesium.Primitive({
 }));
 ```
 # 效果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/4dfe6965ceba4771bb663441e243300d.png)
+![image](https://user-images.githubusercontent.com/53400642/231702601-cbf583a0-0cca-47dd-9610-90569c586ed6.png)
 
 # 结尾
 感觉修改Billboard的源码应该也能解决这个问题，以后会考虑看看。
