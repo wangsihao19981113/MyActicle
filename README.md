@@ -9,3 +9,4 @@ AutomaticProcessingOfAltimetricPoint.md
 | ShowCesiumSceneOfUEByWeb.md | [UE5+CESIUM FOR UNREAL+PIXEL STREAMING实现基础的天空地形WEB展示](https://gitpress.io/@wshacticle/ShowCesiumSceneOfUEByWeb) |
 | ShpOperationByJS.md | [SHP文件纯前端的上传、解析、编辑、下载](https://gitpress.io/@wshacticle/ShpOperationByJS) |
 | ImageMaterial.md | [Cesium图片材质（解决billboard面对屏幕问题）](https://gitpress.io/@wshacticle/ImageMaterial) |
+| DEMToTerrain.md | [DEM到三维可视化地形）](https://gitpress.io/@wshacticle/DEMToTerrain) |
